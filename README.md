@@ -37,7 +37,7 @@ To get a local copy up and running follow these simple example steps.
 Clone the project:
 
 ```
-git clone 
+git clone https://github.com/BereketRetta/JS_Capstone_Project.git
 ```
 
 cd into the file:
