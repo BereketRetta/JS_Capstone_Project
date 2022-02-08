@@ -35,3 +35,35 @@ a {
   font-size: 1.2rem;
 }
 
+.active {
+  border-bottom: 1px solid #246cf1;
+  font-weight: bold;
+}
+
+.title {
+  border: 2px solid black;
+  background: conic-gradient(red 0deg, red 90deg, white 90deg, white 180deg, red 180deg, red 270deg, white 270deg, white 360deg);
+  border-radius: 50%;
+  margin-top: 0 !important;
+}
+
+span {
+  display: block;
+}
+
+.d-none {
+  display: none;
+}
+
+main {
+  min-height: 100vh;
+}
+
+.movies {
+  display: grid;
+  width: 80%;
+  margin: auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 15px;
+}
+
