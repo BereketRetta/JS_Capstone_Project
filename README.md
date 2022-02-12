@@ -1,13 +1,10 @@
 # JS_Capstone_Project
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Shows
 
 > In this project, we will implement JS project using the TVmaze API.
 
-
 ## screenshot
-
 
 ## Built With
 
@@ -17,18 +14,7 @@
 
 ## Live Demo
 
-
 ## Getting Started
-
-### Prerequisites
-
-> Git
-
-> npm
-
-> Web Browser
-
-> Code Editor
 
 ### Setup
 
@@ -36,14 +22,12 @@ To get a local copy up and running follow these simple example steps.
 
 Clone the project:
 
-```
 git clone https://github.com/BereketRetta/JS_Capstone_Project.git
-```
 
 cd into the file:
 
-```
 cd JS_Capstone_Project.git
+
 ```
 
 Open with any code editor
@@ -53,13 +37,17 @@ Open with any code editor
 Instal node modules:
 
 ```
+
 npm install
+
 ```
 
 Initialize local server:
 
 ```
+
 npm start
+
 ```
 
 ### Usage
@@ -70,7 +58,9 @@ npm start
 Use following command for tests
 
 ```
+
 npm test
+
 ```
 
 
@@ -104,3 +94,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+```
