@@ -27,7 +27,7 @@ cd into the folder:
 
 Open with any code editor
 
-install all the packages needed by this command :
+install all the packages needed with the command below :
 
 ```
 npm install
