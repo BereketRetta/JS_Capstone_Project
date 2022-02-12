@@ -126,7 +126,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
   \********************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nconst getMovies = async () => {\r\n  const moviesData = await fetch(\"https://api.tvmaze.com/shows?page=2\");\r\n  const allData = await moviesData.json();\r\n\r\n  const data = allData.slice(0, 20).map((item) => item);\r\n  return data;\r\n};\r\n\r\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (getMovies);\r\n\n\n//# sourceURL=webpack://capstone_project_2/./src/modules/apiCall.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nconst getMovies = async () => {\r\n  const moviesData = await fetch(\"https://api.tvmaze.com/shows?page=2\");\r\n  const allData = await moviesData.json();\r\n\r\n  const data = allData.slice(0, 10).map((item) => item);\r\n  return data;\r\n};\r\n\r\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (getMovies);\r\n\n\n//# sourceURL=webpack://capstone_project_2/./src/modules/apiCall.js?");
 
 /***/ }),
 
