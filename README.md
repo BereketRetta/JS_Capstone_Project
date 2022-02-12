@@ -1,8 +1,6 @@
 # JS_Capstone_Project
 
-# Shows
-
-> In this project, we will implement JS project using the TVmaze API.
+-Movietify
 
 ## screenshot
 
@@ -10,61 +8,48 @@
 
 ## Built With
 
-- HTML&CSS, JavaScript
-- Webpack, Jest, TVMaze API
+- HTML&CSS,
+- JavaScript
+- Webpack
+- Jest
+- TVMaze API
 - Kanban
 
-## Live Demo
+## Usage
 
-## Getting Started
-
-### Setup
-
-To get a local copy up and running follow these simple example steps.
+To get a local copy, follow these steps below
 
 Clone the project:
 
 git clone https://github.com/BereketRetta/JS_Capstone_Project.git
 
-cd into the file:
-
-cd JS_Capstone_Project.git
-
-```
+cd into the folder:
 
 Open with any code editor
 
-### Install
-
-Instal node modules:
+install all the packages needed by this command :
 
 ```
-
 npm install
-
 ```
 
-Initialize local server:
+you can run this website on live server port 8080 by this command :
 
 ```
-
-npm start
-
+npm run start
 ```
 
-### Usage
+to build the project run :
 
+```
+npm run build
+```
 
-### Run tests
+## Run tests
 
 Use following command for tests
 
-```
-
 npm test
-
-```
-
 
 ## Authors
 
@@ -73,11 +58,9 @@ npm test
 - GitHub: [BereketRetta](https://github.com/bereketRetta)
 - LinkedIn: [@bereketRetta](https://www.linkedin.com/in/bereket-retta)
 
-👤 ****
+👤 \*\*\*\*
 
-- GitHub: [@githubhandle]()
-- Twitter: [@twitterhandle]()
-- LinkedIn: [@LinkedIn]()
+- GitHub: [@githubhandle](https://github.com/ismailakinkunmi)
 
 ## 🤝 Contributing
 
@@ -96,4 +79,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-```
