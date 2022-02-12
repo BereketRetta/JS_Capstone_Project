@@ -1,3 +1,4 @@
+
 import moviesCounter from "./__mocks__/itemsCounter.js";
 
 describe("Testing items counter function", () => {
